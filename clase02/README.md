@@ -1,4 +1,4 @@
-# Proyecto: Clase02
+#  Proyecto: Clase02
 
 # Ejercicio 1
 
